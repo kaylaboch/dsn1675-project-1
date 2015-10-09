@@ -185,11 +185,25 @@ p{
 @media only screen and (min-width:66em){
 .first{
   font-size:16px;
+  margin-left:40%;
+  margin-top:20%;
 }
 .facebook{
   width:1%;
 }
 h1{
   font-size:60px;
+}
+.me{
+  width:30%;
+}
+.face{
+  margin-left:45%;
+}
+.pin{
+  margin-left:55%;
+}
+.tumblr{
+  margin-left:65%;
 }
 }
