@@ -88,18 +88,53 @@ a{
     margin-right:25%;
     margin-left:25%;
   }
+  p{
+    font-size:9px;
+  }
 @media only screen and (min-width: 33em){
 .tumblr{
-  margin-top:30%;
+  margin-top:40%;
   margin-left:60%;
 }
 .face{
-  margin-top:30%;
+  margin-top:40%;
   margin-left: 30%;
 }
 .pin{
-  margin-top:30%;
+  margin-top:40%;
 }
 h1{
   margin-top: 5%;
+}
+p{
+  font-size:12px;
+}
+@media only screen and (min-width: 45em){
+.me{
+    width:25%;
+    margin-left:5%;
+    margin-right:0;
+    float:left;
+  }
+.first{
+  float:right;
+  width:50%;
+  margin:0 auto;
+  padding:0;
+}
+h1{
+  clear:both;
+}
+p{
+  float:right;
+  clear:both;
+}
+.pin{
+  clear:both;
+}
+.face{
+  clear:both;
+}
+.tumblr{
+  clear:both;
 }
